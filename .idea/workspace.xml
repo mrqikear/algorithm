@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f503261a-ae2b-468c-8b6e-5bd21a092d0c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mrqi/mrqi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mrqi/src/main/java/algorithm/Link.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mrqi/src/main/java/algorithm/LinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mrqi/src/main/java/algorithm/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mrqi/src/main/java/algorithm/tree/AbstractTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mrqi/src/main/java/algorithm/tree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mrqi/src/main/java/algorithm/tree/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mrqi/src/main/java/algorithm/tree/TreePath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mrqi/src/main/java/mian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mrqi/src/main/java/leetcode/leetcode20200904.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mrqi/src/main/java/leetcode/leetcode.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/mrqi/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,84 +14,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mrqi/src/main/java/algorithm/tree/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="e#168#169#0" expanded="true" />
-                <element signature="e#194#195#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mrqi/src/main/java/mian.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="32" column="19" selection-start-line="24" selection-end-line="32" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mrqi/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mrqi/src/main/java/algorithm/Link.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-              <folding>
-                <element signature="e#330#331#0" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mrqi/src/main/java/algorithm/Sort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mrqi/src/main/java/algorithm/LinkList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1850">
-              <caret line="99" column="37" selection-start-line="99" selection-start-column="37" selection-end-line="99" selection-end-column="37" />
-              <folding>
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#219#220#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mrqi/src/main/java/algorithm/tree/TreePath.java">
+        <entry file="file://$PROJECT_DIR$/mrqi/src/main/java/leetcode/leetcode20200904.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="20" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="35" selection-end-column="20" />
+            <state relative-caret-position="515">
+              <caret line="139" column="19" lean-forward="true" selection-start-line="125" selection-start-column="6" selection-end-line="139" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#Test#0;class#TreePath#0" />
               </folding>
             </state>
           </provider>
@@ -117,6 +39,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>addlast</find>
+      <find>sys</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -137,10 +60,12 @@
         <option value="$PROJECT_DIR$/mrqi/src/main/java/algorithm/tree/Tree.java" />
         <option value="$PROJECT_DIR$/mrqi/pom.xml" />
         <option value="$PROJECT_DIR$/mrqi/src/main/java/algorithm/tree/TreePath.java" />
+        <option value="$PROJECT_DIR$/mrqi/src/main/java/leetcode/leetcode.java" />
+        <option value="$PROJECT_DIR$/mrqi/src/main/java/leetcode/leetcode20200904.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="333" />
     <option name="y" value="19" />
     <option name="width" value="1400" />
@@ -152,6 +77,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -188,6 +114,33 @@
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="mrqi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="mrqi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="mrqi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -208,11 +161,63 @@
               <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
               <item name="lang" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="runner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="runners" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="statements" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="notification" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -240,25 +245,82 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TreePath.Test">
-    <configuration name="mian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mian" />
+  <component name="RunManager" selected="JUnit.leetcode20200904.stringLeng">
+    <configuration name="leetcode20200904.addTwoNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mrqi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.leetcode20200904" />
+      <option name="METHOD_NAME" value="addTwoNumbers" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreePath.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="leetcode20200904.solutionTosum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mrqi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.tree.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="algorithm.tree" />
-      <option name="MAIN_CLASS_NAME" value="algorithm.tree.TreePath" />
-      <option name="METHOD_NAME" value="Test" />
+      <option name="PACKAGE_NAME" value="leetcode" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.leetcode20200904" />
+      <option name="METHOD_NAME" value="solutionTosum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leetcode20200904.solutionaddTwoNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mrqi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.leetcode20200904" />
+      <option name="METHOD_NAME" value="solutionaddTwoNumbers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leetcode20200904.stringLeng" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mrqi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.leetcode20200904" />
+      <option name="METHOD_NAME" value="stringLeng" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leetcode.solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mrqi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.leetcode" />
+      <option name="METHOD_NAME" value="solution" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -266,8 +328,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TreePath.Test" />
-        <item itemvalue="Application.mian" />
+        <item itemvalue="JUnit.leetcode20200904.stringLeng" />
+        <item itemvalue="JUnit.leetcode20200904.solutionaddTwoNumbers" />
+        <item itemvalue="JUnit.leetcode20200904.solutionTosum" />
+        <item itemvalue="JUnit.leetcode20200904.addTwoNumbers" />
+        <item itemvalue="JUnit.leetcode.solution" />
       </list>
     </recent_temporary>
   </component>
@@ -290,49 +355,51 @@
       <workItem from="1597628322039" duration="19840000" />
       <workItem from="1597822877383" duration="5968000" />
       <workItem from="1597886766555" duration="8786000" />
-      <workItem from="1599183981514" duration="3955000" />
+      <workItem from="1599183981514" duration="17088000" />
+      <workItem from="1599441261884" duration="5660000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TreePath_Test - 2020.09.04 at 10h 41m 35s.xml">
-      <configuration name="TreePath.Test" configurationId="JUnit" />
+    <history-entry file="leetcode20200904_solutionaddTwoNumbers - 2020.09.04 at 15h 59m 53s.xml">
+      <configuration name="leetcode20200904.solutionaddTwoNumbers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TreePath_Test - 2020.09.04 at 10h 42m 17s.xml">
-      <configuration name="TreePath.Test" configurationId="JUnit" />
+    <history-entry file="leetcode20200904_solutionaddTwoNumbers - 2020.09.04 at 16h 05m 06s.xml">
+      <configuration name="leetcode20200904.solutionaddTwoNumbers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TreePath_Test - 2020.09.04 at 10h 48m 31s.xml">
-      <configuration name="TreePath.Test" configurationId="JUnit" />
+    <history-entry file="leetcode20200904_solutionaddTwoNumbers - 2020.09.04 at 16h 06m 44s.xml">
+      <configuration name="leetcode20200904.solutionaddTwoNumbers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TreePath_Test - 2020.09.04 at 10h 49m 32s.xml">
-      <configuration name="TreePath.Test" configurationId="JUnit" />
+    <history-entry file="leetcode20200904_solutionaddTwoNumbers - 2020.09.04 at 16h 08m 43s.xml">
+      <configuration name="leetcode20200904.solutionaddTwoNumbers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TreePath_Test - 2020.09.04 at 10h 49m 57s.xml">
-      <configuration name="TreePath.Test" configurationId="JUnit" />
+    <history-entry file="leetcode20200904_solutionaddTwoNumbers - 2020.09.04 at 16h 09m 37s.xml">
+      <configuration name="leetcode20200904.solutionaddTwoNumbers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TreePath_Test - 2020.09.04 at 10h 51m 42s.xml">
-      <configuration name="TreePath.Test" configurationId="JUnit" />
+    <history-entry file="leetcode20200904_solutionaddTwoNumbers - 2020.09.04 at 16h 10m 59s.xml">
+      <configuration name="leetcode20200904.solutionaddTwoNumbers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TreePath_Test - 2020.09.04 at 10h 51m 53s.xml">
-      <configuration name="TreePath.Test" configurationId="JUnit" />
+    <history-entry file="leetcode20200904_solutionaddTwoNumbers - 2020.09.04 at 16h 17m 34s.xml">
+      <configuration name="leetcode20200904.solutionaddTwoNumbers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TreePath_Test - 2020.09.04 at 10h 52m 06s.xml">
-      <configuration name="TreePath.Test" configurationId="JUnit" />
+    <history-entry file="leetcode20200904_stringLeng - 2020.09.04 at 18h 32m 17s.xml">
+      <configuration name="leetcode20200904.stringLeng" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TreePath_Test - 2020.09.04 at 10h 52m 39s.xml">
-      <configuration name="TreePath.Test" configurationId="JUnit" />
+    <history-entry file="leetcode20200904_stringLeng - 2020.09.04 at 18h 32m 32s.xml">
+      <configuration name="leetcode20200904.stringLeng" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TreePath_Test - 2020.09.04 at 10h 52m 49s.xml">
-      <configuration name="TreePath.Test" configurationId="JUnit" />
+    <history-entry file="leetcode20200904_stringLeng - 2020.09.07 at 10h 07m 51s.xml">
+      <configuration name="leetcode20200904.stringLeng" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57855000" />
+    <option name="totallyTimeSpent" value="76648000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1977612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19989339" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -341,12 +408,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4186551" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.54880697" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4208243" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.324295" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3449024" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.329718" />
@@ -439,63 +506,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mrqi/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mrqi/src/main/java/algorithm/Link.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding>
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mrqi/src/main/java/algorithm/Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mrqi/src/main/java/algorithm/LinkList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1850">
-          <caret line="99" column="37" selection-start-line="99" selection-start-column="37" selection-end-line="99" selection-end-column="37" />
-          <folding>
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mrqi/src/main/java/algorithm/tree/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mrqi/src/main/java/mian.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="32" column="19" selection-start-line="24" selection-end-line="32" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mrqi/src/main/java/algorithm/tree/Tree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -513,10 +523,175 @@
     <entry file="file://$PROJECT_DIR$/mrqi/src/main/java/algorithm/tree/TreePath.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
-          <caret line="35" column="20" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="35" selection-end-column="20" />
+          <caret line="35" column="20" selection-start-line="30" selection-start-column="7" selection-end-line="35" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#Test#0;class#TreePath#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2222">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mrqi/src/main/java/algorithm/LinkList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2375">
+          <caret line="99" column="37" selection-start-line="99" selection-start-column="37" selection-end-line="99" selection-end-column="37" />
+          <folding>
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mrqi/src/main/java/algorithm/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mrqi/src/main/java/algorithm/tree/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mrqi/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mrqi/src/main/java/algorithm/Link.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mrqi/src/main/java/mian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runner/notification/RunNotifier.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+          <folding>
+            <element signature="e#0#5324#0" expanded="true" />
+            <element signature="e#3647#3830#0" expanded="true" />
+            <element signature="e#3829#3830#0" expanded="true" />
+            <element signature="e#4308#4309#0" expanded="true" />
+            <element signature="e#4364#4365#0" expanded="true" />
+            <element signature="e#4424#4425#0" expanded="true" />
+            <element signature="e#4488#4489#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/EachTestNotifier.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="e#1491#1492#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runner/JUnitCore.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="174" selection-start-line="174" selection-end-line="174" />
+          <folding>
+            <element signature="e#2111#2112#0" expanded="true" />
+            <element signature="e#2155#2156#0" expanded="true" />
+            <element signature="e#6484#6648#0" expanded="true" />
+            <element signature="e#6647#6648#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="122" column="6" selection-start-line="122" selection-start-column="6" selection-end-line="122" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/InvokeMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#870#1063#0" expanded="true" />
+            <element signature="e#1062#1063#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mrqi/src/main/java/leetcode/leetcode20200904.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="139" column="19" lean-forward="true" selection-start-line="125" selection-start-column="6" selection-end-line="139" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
